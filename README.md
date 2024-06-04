@@ -1,4 +1,4 @@
-### Breast Cancer Detection Jupyter Notebook
+### Breast Cancer Detection
 
 This Jupyter notebook demonstrates how to use machine learning to detect breast cancer using the sklearn and TensorFlow libraries.
 
@@ -29,4 +29,4 @@ The model is evaluated on the test data. The loss and accuracy are printed.
 A new data point is created and standardized. The model is used to predict the label of the new data point. The predicted label is printed.
 
 #### Conclusion
-This Jupyter notebook demonstrates how to use machine learning to detect breast cancer. The model achieved an accuracy of 96% on the test data.
+This code uses machine learning to detect breast cancer.
